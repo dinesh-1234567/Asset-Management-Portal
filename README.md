@@ -1,0 +1,2 @@
+# Asset-Management-Portal
+Asset-Management-Portal is a ServiceNow-based application designed to simplify and centralize asset tracking and lifecycle management. Built on the Now Platform, it enables organizations to register, monitor, allocate, and maintain IT and non-IT assets with ease.
